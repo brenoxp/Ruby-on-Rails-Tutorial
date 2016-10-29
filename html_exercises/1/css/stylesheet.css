@@ -1,0 +1,8 @@
+ul.decimal {
+	list-style-type: decimal;
+}
+
+
+ul.roman {
+	list-style-type: lower-roman;	
+}

@@ -1,0 +1,15 @@
+th, td {
+	border: 1px solid gray;
+	border-collapse: separate;
+	border-spacing: 0px 0px;
+}
+table {
+	border: 6px solid;
+	border-collapse: separate;
+	border-spacing: 0px 0px;
+	border-color: gray black black gray;
+}
+
+.text-inside {
+	padding: 30px;
+}
