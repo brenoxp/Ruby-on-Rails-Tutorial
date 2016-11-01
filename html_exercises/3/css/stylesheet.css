@@ -1,21 +1,15 @@
 th, td {
 	border: 1px solid gray;
-	padding: 7px;
 	border-collapse: separate;
 	border-spacing: 0px 0px;
 }
 table {
-	border: 1px solid;
+	border: 6px solid;
 	border-collapse: separate;
 	border-spacing: 0px 0px;
+	border-color: gray black black gray;
 }
 
-.table-header {
-	font-size: 30px;
-	padding-top: 10px;
-	padding-bottom: 25px;
-}
-
-.red {
-	color: red;
+.text-inside {
+	padding: 30px;
 }
